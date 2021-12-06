@@ -36,15 +36,13 @@ path:hover, circle:hover {
 }
 
 #chart{
-  /* display: flex;
-  justify-self: end; */
   background-color: #D3D3D3;
   border: 1px solid black;
   width: 200px;
   height:350px;
-  position: relative;
-  left: 895px;
-  top:300px;
+  float: right;
+  margin-right: 50px;
+  margin-top: 300px;
   text-align: center;
   color: black;
   border-radius: 20px;
